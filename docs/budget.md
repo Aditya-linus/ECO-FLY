@@ -27,5 +27,3 @@
 The requested funding will be used to buy all hardware, electronics, testing materials, and assembly consumables required to build the  ECO-FLY drone 
 
 The project's main purpose is to create a modular FPV drone system for agricultural monitoring, environmental observation, and future autonomous aerial robotics research. The mentioned components in the bom provide a balance between performance, reliability, maintainability, and cost-effectiveness and have been selected by a rigourous research by me.
-
-Aditya
