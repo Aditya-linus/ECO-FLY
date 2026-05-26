@@ -4,8 +4,8 @@
 
 ### Requested Funding: $700 USD
 
-| Component | Quantity | Cost (USD) |
-|------------|------------|------------|
+| Component | Quantity | Cost (USD) |Links |
+|------------|------------|------------|------------|
 | Carbon Fiber Frame | 1 | $30 |
 | Brushless Motors | 4 | $85 |
 | Flight Controller + ESC Stack | 1 | $95 |
