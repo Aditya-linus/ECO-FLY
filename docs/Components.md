@@ -115,8 +115,8 @@ well a transmitter is like a remote control for your drone
 - Controls throttle, pitch, roll, and yaw
 - Enables manual drone operation
 
+<img width="425" height="415" alt="image" src="https://github.com/user-attachments/assets/8170e8f0-6a28-475d-97b1-4448edcbf420" />
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/3e959555-ee98-4221-839f-15895589779a" />
 
 ---
 
