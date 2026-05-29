@@ -13,6 +13,6 @@
 | 6S LiPo Batteries | 3 |
 | LiPo Charger | 1 |
 | FPV Goggles | 1 |
-| Propeller Sets | 10 |
+| Propellers | 10 |
 | Wiring & Connectors | Assorted |
 | Assembly Consumables | Assorted |
