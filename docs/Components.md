@@ -56,6 +56,8 @@ Function:
 - Blah blah blah its the main chip 
 
 
+<img width="433" height="313" alt="image" src="https://github.com/user-attachments/assets/fbc3c89e-fb35-4a91-a9d6-a879046020b0" />
+
 ---
 
 # Electronic Speed Controller (ESC)
