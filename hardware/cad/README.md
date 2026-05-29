@@ -11,4 +11,4 @@ This directory will havea all  CAD model designs for ECO-FLY.
 - Protective covers
 - 3D printable accessories
 
- I havent added anything yet but this will be done surely after the build is complete
+ I havent added anything yet but this will be done surely after I get all the parts
