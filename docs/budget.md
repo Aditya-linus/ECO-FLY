@@ -1,6 +1,6 @@
 # Budget Estimate (USD)
 
-## ECO-FLY – Environmental & Agricultural Aerial Robotics Platform
+## ECO-FLY – Environmental & Agricultural Aerial Robotics Device
 
 ### Requested Funding: $700 USD
 
