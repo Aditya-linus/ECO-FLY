@@ -16,3 +16,6 @@
 | Propellers | 10 |
 | Wiring & Connectors | Assorted |
 | Assembly Consumables | Assorted |
+
+
+Note- All the materials links and costs are in the  [Budget](docs/budget.md)
