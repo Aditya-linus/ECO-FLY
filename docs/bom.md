@@ -18,4 +18,4 @@
 | Assembly Consumables | Assorted |
 
 
-Note- All the materials links and costs are in the  [Budget](ECO-FLY/tree/main/docs/budget.md)
+Note- All the materials links and costs are in the  Budget.md
